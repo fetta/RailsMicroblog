@@ -17,3 +17,6 @@
 
 # secret_token
 .secret
+
+# database.yml
+/config/database.yml
